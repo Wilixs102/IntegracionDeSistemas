@@ -1,0 +1,8 @@
+Fecha,Transacción,Descripción,Categoría,Cuenta Contable,Débito,Crédito
+2023-03-01,15,Depósito Inicial de Fondos,Socios,Caja,20000,
+2023-03-05,16,Pago de Proveedores,Gastos,Proveedores,5000,
+2023-03-10,17,Ingreso por Donación,Ingresos,Donaciones,,3000
+2023-03-15,18,Compra de Equipamiento,Activos Fijos,Equipamiento de Oficina,,8000
+2023-03-20,19,Préstamo Bancario,Préstamos,Préstamo Bancario,10000,
+2023-03-25,20,Pago de Intereses,Intereses Gastos,Gastos Financieros,2000,
+2023-03-30,21,Ingresos por Cuotas,Socios,Cuentas por Cobrar (Socios),,6000
